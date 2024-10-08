@@ -70,5 +70,5 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
 - [Medium](https://medium.com/@CodingRasi)
 - [X ](https://twitter.com/CodingRasi)
 - [TikTok](https://www.tiktok.com/@codingrasi)
-- [BuyMeACoffee]([https://buymeacoffee.com/mammadowr8])
+- [BuyMeACoffee](https://buymeacoffee.com/mammadowr8)
 - [Website](https://codingrasi.com)
