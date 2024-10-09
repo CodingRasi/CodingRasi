@@ -9,18 +9,18 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
 - ⚡ Private life: I love reading books, going to the theater, watching movies, listening to music, fitness, and traveling.
 
 ## 🛠️ Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
 ## 🎓 Certifications
@@ -39,7 +39,29 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
 
 ## 🌍 Countries That I Have Visited (23)
 <p align="center">
-  Azerbaijan 🇦🇿 • Turkiye 🇹🇷 • Georgia 🇬🇪 • Russian Federation 🇷🇺 • Qatar 🇶🇦 • Ukraine 🇺🇦 • Belarus 🇧🇾 • Poland 🇵🇱 • Hungary 🇭🇺 • Slovakia 🇸🇰 • Czech Republic 🇨🇿 • Austria 🇦🇹 • Switzerland 🇨🇭 • Germany 🇩🇪 • Netherlands 🇳🇱 • Luxembourg 🇱🇺 • Belgium 🇧🇪 • France 🇫🇷 • Spain 🇪🇸 • Portugal 🇵🇹 • Italy 🇮🇹 • Cyprus 🇨🇾 • Vatican 🇻🇦
+  • Azerbaijan 🇦🇿<br> 
+  • Turkiye 🇹🇷<br> 
+  • Georgia 🇬🇪<br> 
+  • Russian Federation 🇷🇺 <br>
+  • Qatar 🇶🇦 <br>
+  • Ukraine 🇺🇦 <br>
+  • Belarus 🇧🇾 <br>
+  • Poland 🇵🇱 <br>
+  • Hungary 🇭🇺 <br>
+  • Slovakia 🇸🇰 <br>
+  • Czech Republic 🇨🇿 <br>
+  • Austria 🇦🇹 <br>
+  • Switzerland 🇨🇭 <br>
+  • Germany 🇩🇪 <br>
+  • Netherlands 🇳🇱 <br>
+  • Luxembourg 🇱🇺 <br>
+  • Belgium 🇧🇪 <br>
+  • France 🇫🇷 <br>
+  • Spain 🇪🇸 <br>
+  • Portugal 🇵🇹 <br>
+  • Italy 🇮🇹 <br>
+  • Cyprus 🇨🇾 <br>
+  • Vatican 🇻🇦
 </p>
 
 ## 🌐 Languages
