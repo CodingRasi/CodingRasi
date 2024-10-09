@@ -5,7 +5,7 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
 
 - 👨‍💻 I am currently working at **CGI Germany**.
 - 🎙️ I host the **CodingRasi: TechCast**, discussing tech news, programming tips, and AI developments.
-- 📺 Check out my latest [YouTube video](https://www.youtube.com/CodingRasi) on tech.
+- 📺 Check out my latest [YouTube video](https://www.youtube.com/@CodingRasi) on tech.
 - ⚡ Private life: I love reading books, going to the theater, watching movies, listening to music, fitness, and traveling.
 
 ## 🛠️ Skills
@@ -132,7 +132,7 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
   <a href="https://github.com/CodingRasi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/CodingRasi" target="_blank">
+  <a href="https://www.youtube.com/@CodingRasi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://twitter.com/CodingRasi" target="_blank">
