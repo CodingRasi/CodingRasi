@@ -80,7 +80,7 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
 - 🔍 Exploring **token creation** and cryptocurrency-based applications.
 - 💡 Working on interactive blockchain mini-app concepts to blend **gamification** with **token utilities**.
 
-## 🌍 Countries That I Have Visited (23)
+## 🌍 Countries That I Have Visited (24)
 <p align="left">
   • Azerbaijan 🇦🇿<br> 
   • Turkiye 🇹🇷<br> 
