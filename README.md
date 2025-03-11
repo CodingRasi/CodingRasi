@@ -104,7 +104,8 @@ I am a **Software and Web Developer** with over 8 years of experience. I am pass
   • Portugal 🇵🇹 <br>
   • Italy 🇮🇹 <br>
   • Cyprus 🇨🇾 <br>
-  • Vatican 🇻🇦
+  • Vatican 🇻🇦 <br>
+  • United Kingdom 🇬🇧
 </p>
 
 ## 🌐 Languages
