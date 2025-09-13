@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a **Software and Web Developer** with over 8 years of experience. I am passionate about technology, software development, and continuous learning. I enjoy working both independently and as part of a team. Currently, I'm focusing on **machine learning** and **AI creation**. I also have a strong interest in **cryptocurrencies** and enjoy experimenting with **creating tokens** and building mini-apps to explore blockchain technology.
 
-- 👨‍💻 I am currently working at **CGI Germany**.
+- 👨‍💻 I am currently working at **Quirion AG**.
 - ⚡ Private life: I love reading books, going to the theater, watching movies, listening to music, fitness, and traveling.
 
 ## 🛠️ Skills
